@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8-green.svg)](https://www.python.org/downloads/)
 
 ## **Overview** 🌟
-**QAWithPDF** is an innovative **Question Answering System** designed to interact with PDF documents. It uses **Gemini Embeddings** to process PDF content and allows users to ask questions related to the document. With the power of **Generative AI** and **LLama Index**, the system provides real-time, accurate responses based on the content of the uploaded PDFs.
+**GEMINIQ** is an innovative **Question Answering System** designed to interact with PDF documents. It uses **Gemini Embeddings** to process PDF content and allows users to ask questions related to the document. With the power of **Generative AI** and **LLama Index**, the system provides real-time, accurate responses based on the content of the uploaded PDFs.
 
 This project allows you to **upload PDFs**, **parse the text**, and **query the content** using natural language.
 
@@ -19,11 +19,6 @@ This project allows you to **upload PDFs**, **parse the text**, and **query the 
 - 🌍 **Streamlit** interface for easy interaction.
 
 ---
-
-## **Architecture** 🏗️
-
-![Architecture](https://www.example.com/your-architecture-image.png)  
-*High-Level Architecture of QAWithPDF*
 
 ### **Core Components**:
 1. **PDF Parsing**:  
@@ -50,7 +45,7 @@ This project allows you to **upload PDFs**, **parse the text**, and **query the 
 
 ### **Installation** 🛠️
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/QAWithPDF.git
    cd QAWithPDF
